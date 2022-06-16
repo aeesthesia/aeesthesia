@@ -4,10 +4,10 @@
 </div>
 
 <p align="center">
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
 
 <div align="center">
-  
-  [![Discord Presence](https://lanyard.cnrad.dev/api/594360385172275211)](https://discord.com/users/594360385172275211)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/594360385172275211?hideTimestamp=true&idleMessage=Just%20chillin'%20at%20the%20moment...)](https://discord.com/users/594360385172275211)
 </div>
